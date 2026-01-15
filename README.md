@@ -5,7 +5,7 @@
 - <b>HoneyTrace — Real-time honeypot</b>
   - [From intrusion to insight]()
 - <b>Vulnerability Management</b>
-  - [Scanning for Vulnerability]() 
+  - **[Implementing a SOC & Honeynet with Azure; Attacking and remediating it](https://github.com/Waziri666/Vulnerability-manager)** *(Live Traffic)*
   - [Remediating the Vulnerabilty Manually]() 
   - [Remediating the Vulnerabilty programmatically]()
 - <b>Artificial Intelligent anomaly detection for SMEs</b> <b><i>(Startup)</b></i>
