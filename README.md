@@ -6,8 +6,8 @@
   - [From intrusion to insight]()
 - <b>Vulnerability Management</b>
   - **[Implementing a SOC & Honeynet with Azure; Attacking and remediating it](https://github.com/Waziri666/Vulnerability-manager)** *(Live Traffic)*
-  - [Remediating the Vulnerabilty Manually](https://github.com/Waziri666/KQL-Map-Why-KQL-Maps-Are-Essential-for-CEOs-and-Non-Tech-People/tree/main) 
-  - [Why KQL Maps Are Essential for CEOs and Non-Tech People]()
+  - [Why KQL Maps Are Essential for CEOs and Non-Tech People](https://github.com/Waziri666/KQL-Map-Why-KQL-Maps-Are-Essential-for-CEOs-and-Non-Tech-People/tree/main) 
+  - []()
 - <b>Artificial Intelligent anomaly detection for SMEs</b> <b><i>(Startup)</b></i>
   - [Windows EventLog: Failed Logins Source IP]() 
   - [Machine Learning)]()
