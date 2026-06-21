@@ -3,8 +3,8 @@
 <h2>🔐 Application Security & Penetration Testing:</h2>
 
 - <b>PeopleFlow — Deliberately Vulnerable HR Management Platform</b>
-  - [PeopleFlow Application (Spring Boot + React)](https://github.com/Waziri666/PeopleFlow) — Full-stack HR app with planted vulnerabilities for pentest practice
-  - [Penetration Test Report (OWASP Top 10)](https://github.com/Waziri666/PeopleFlow-Pentest) — 17 findings, white-box assessment with remediation
+  - [PeopleFlow Application (Spring Boot + React)](https://github.com/Waziri666/PeopleFlow-Pentest) — Full-stack HR app with planted vulnerabilities for pentest practice
+  - [Penetration Test Report (OWASP Top 10)](https://github.com/Waziri666/PeopleFlow-Pentest-report) — 17 findings, white-box assessment with remediation
 
 <h2>🛡️ Cybersecurity Projects:</h2>
 
